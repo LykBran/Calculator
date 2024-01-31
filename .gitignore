@@ -1,2 +1,3 @@
-./.idea/
-./releases/
+.idea
+__pycache__
+releases
