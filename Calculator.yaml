@@ -1,8 +1,7 @@
 name: Calculator
 channels:
-  - conda-forge
-  - defaults
+    - conda-forge
+    - defaults
 dependencies:
-  - python=3.11
-  - pyside6
-  - requests
+    - python=3.11
+    - pyside6
